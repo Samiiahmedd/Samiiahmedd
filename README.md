@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami Mehidy</h1>
-<h3 align="center">iOS Developer/h3>
+<h3 align="center">iOS Developer>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
 		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
