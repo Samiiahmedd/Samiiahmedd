@@ -9,9 +9,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 240px/>
 
 - :school: I am a `Computer Science Fresh Graduate` from the Faculty of Computers & Information at Mansoura University
-- 🌱 I’m currently studying `iOS` 
+
+- 🌱 I’m currently studying `iOS`
+  
 - 📫 How to reach me **samiiiahmed8@gmail.com**
+  
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
+  
 - :nerd_face: Always `seeking new challenges and gaining experiences.` 
 
 <br>
