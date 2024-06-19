@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sami Mehidy</h1>
 
+<h1 align="center">Hi 👋, I'm Sami Mehidy</h1>
 <h3 align="center">iOS Developer
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="Samiiahmedd" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Samiiahmedd&label=Profile%20views&color=0e75b6&style=flat" alt="Samiiahmedd" />
 		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="Samiiahmedd" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-
 - :school: I am a `Computer Science Fresh Graduate` from the Faculty of Computers & Information at Mansoura University
-- 🌱 I’m currently studying `iOS Development`
+- 🌱 I’m currently studying `iOS` 
 - 📫 How to reach me **samiiiahmed8@gmail.com**
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
-- :nerd_face: Always `seeking new challenges and gaining experiences.`
-
+- :nerd_face: Always `seeking new challenges and gaining experiences.` 
 
 <br>
+
 
 ## 📩 Connect with me
 <p align="center">
