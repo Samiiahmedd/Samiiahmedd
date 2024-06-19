@@ -29,7 +29,7 @@
 
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="Samiiahmedd" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiiahmedd&theme=tokyonight_duo" alt="Samiiahmedd" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
