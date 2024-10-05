@@ -6,8 +6,6 @@
     <img src="https://img.shields.io/github/followers/Samiiahmedd?label=Followers&color=20B2AA" alt="Followers" />
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="240px"/>
-
 - 🎓 **Computer Science Graduate** from Faculty of Computers & Information, Mansoura University.
 - 🌱 Currently focused on **iOS Development** and sharpening my expertise.
 - 📫 Reach me at: **samiiiahmed8@gmail.com**.
