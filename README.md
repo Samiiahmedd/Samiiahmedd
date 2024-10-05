@@ -7,11 +7,11 @@
 </p>
 
 
-- 🎓 **Computer Science Graduate** from Faculty of Computers & Information, Mansoura University.
-- 🌱 Currently focused on **iOS Development** and sharpening my expertise.
-- 📫 Reach me at: **samiiiahmed8@gmail.com**.
-- 💼 Open to **exciting opportunities**! Check out my [Resume](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
-- 🤔 **Eager to take on new challenges** and continue growing in the tech world.
+🎓 **Computer Science Graduate** from Faculty of Computers & Information, Mansoura University.
+🌱 Currently focused on **iOS Development** and sharpening my expertise.
+📫 Reach me at: **samiiiahmed8@gmail.com**.
+💼 Open to **exciting opportunities**! Check out my [Resume](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
+🤔 **Eager to take on new challenges** and continue growing in the tech world.
 
 <br>
 
