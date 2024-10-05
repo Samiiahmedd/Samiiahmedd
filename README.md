@@ -6,12 +6,13 @@
     <img src="https://img.shields.io/github/followers/Samiiahmedd?label=Followers&color=20B2AA" alt="Followers" />
 </p>
 
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="240px"/>
 
-🎓 **Computer Science Graduate** from Faculty of Computers & Information, Mansoura University.
-🌱 Currently focused on **iOS Development** and sharpening my expertise.
-📫 Reach me at: **samiiiahmed8@gmail.com**.
-💼 Open to **exciting opportunities**! Check out my [Resume](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
-🤔 **Eager to take on new challenges** and continue growing in the tech world.
+- 🎓 **Computer Science Graduate** from Faculty of Computers & Information, Mansoura University.
+- 🌱 Currently focused on **iOS Development** and sharpening my expertise.
+- 📫 Reach me at: **samiiiahmed8@gmail.com**.
+- 💼 Open to **exciting opportunities**! Check out my [Resume](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
+- 🤔 **Eager to take on new challenges** and continue growing in the tech world.
 
 <br>
 
