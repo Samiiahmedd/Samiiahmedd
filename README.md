@@ -1,12 +1,11 @@
-<h1 align="center" style="font-family: 'Georgia', serif; color: #4B0082;">Hi 👋, I'm Sami Mehidy</h1>
-<h3 align="center" style="font-family: 'Georgia', serif; color: #6A5ACD;">iOS Developer</h3>
+<h1 align="center" style="font-family: 'Georgia', serif; color: #008080;">Hi 👋, I'm Sami Mehidy</h1>
+<h3 align="center" style="font-family: 'Georgia', serif; color: #20B2AA;">iOS Developer</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Samiiahmedd&label=Profile%20views&color=4B0082&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/Samiiahmedd?label=Followers&color=6A5ACD" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=Samiiahmedd&label=Profile%20views&color=008080&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Samiiahmedd?label=Followers&color=20B2AA" alt="Followers" />
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="240px"/>
 
 - 🎓 **Computer Science Graduate** from Faculty of Computers & Information, Mansoura University.
 - 🌱 Currently focused on **iOS Development** and sharpening my expertise.
@@ -60,15 +59,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Samiiahmedd&show_icons=true&theme=tokyonight" alt="Samiiahmedd's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiiahmedd&theme=tokyonight" alt="Samiiahmedd's Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Samiiahmedd&show_icons=true&theme=onedark" alt="Samiiahmedd's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiiahmedd&theme=onedark" alt="Samiiahmedd's Streak Stats" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Samiiahmedd&theme=tokyonight&row=1&column=3" alt="Samiiahmedd's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Samiiahmedd&theme=onedark&row=1&column=3" alt="Samiiahmedd's Trophies" />
 </p>
 
 <br>
 
-<p align="center" style="color: #4B0082;">✨ Thank you for visiting my profile! ✨</p>
+<p align="center" style="color: #008080;">✨ Thank you for visiting my profile! ✨</p>
