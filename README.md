@@ -1,20 +1,18 @@
-
-<h1 align="center" style="font-family: 'Poppins', serif; color: #4B0082;">Hi 👋, I'm Sami Mehidy</h1>
+<h1 align="center" style="font-family: 'Georgia', serif; color: #4B0082;">Hi 👋, I'm Sami Mehidy</h1>
 <h3 align="center" style="font-family: 'Georgia', serif; color: #6A5ACD;">iOS Developer</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Samiiahmedd&label=Profile%20views&color=4B0082&style=flat" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/Samiiahmedd?label=Followers&color=6A5ACD" alt="Followers" />
 </p>
-<br>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="240px"/>
 
-- 🎓 I am a **Computer Science Fresh Graduate** from the Faculty of Computers & Information at Mansoura University.
-- 🌱 Currently immersed in **iOS Development** and honing my skills.
-- 📫 Reach out: **samiiiahmed8@gmail.com**.
-- 💼 Open for **exciting job opportunities**! View my [Resume](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
-- 🤔 Always **seeking new challenges** and experiences. 
+- 🎓 **Computer Science Graduate** from Faculty of Computers & Information, Mansoura University.
+- 🌱 Currently focused on **iOS Development** and sharpening my expertise.
+- 📫 Reach me at: **samiiiahmed8@gmail.com**.
+- 💼 Open to **exciting opportunities**! Check out my [Resume](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
+- 🤔 **Eager to take on new challenges** and continue growing in the tech world.
 
 <br>
 
