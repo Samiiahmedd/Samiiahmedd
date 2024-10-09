@@ -60,8 +60,8 @@
   </p>
   <br>
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedmenaim&theme=omni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedmenaim&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiiahmedd&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiiahmedd&theme=omni)
 
   <hr>
   
