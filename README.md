@@ -14,20 +14,6 @@
 
 <br>
 
-## 📩 Connect with Me
-<p align="center">
-    <a href="mailto:samiiiahmed8@gmail.com" title="Gmail">
-        <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>  
-    <a href="https://www.facebook.com/samimehidy" title="Facebook">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://www.linkedin.com/in/samiiahmedd/" title="LinkedIn">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>  
-</p>
-
-<br>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
 
@@ -66,7 +52,7 @@
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
   <a href="[https://www.linkedin.com/in/samiiahmedd/]"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="https://www.linkedin.com/in/samiiahmedd/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="https://www.linkedin.com/in/samimehidy/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="mailto:samiiiahmed8@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 
 </p>
