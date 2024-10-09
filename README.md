@@ -6,19 +6,19 @@
     <img src="https://img.shields.io/github/followers/Samiiahmedd?label=Followers&color=20B2AA" alt="Followers" />
 </p>
 
-<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> Professional Overview
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=false" width="50px"></picture> **Professional Overview**
 
-🎓 Software Engineering Graduate from Mansoura University.
+🎓 **Software Engineering Graduate** from Mansoura University.
 
-🌱 Specializing in iOS Development.
+🌱 Specializing in **iOS Development**.
 
-🛠️ Skilled in UIKit, SwiftUI, API integration, and building dynamic applications for seamless user experiences.
+🛠️ Skilled in **UIKit**, **SwiftUI**, **API integration**, and building dynamic applications for seamless user experiences.
 
-💼 Open to exciting opportunities! Check out my Resume.
+💼 Open to **exciting opportunities**! Check out my [Resume](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
 
 💬 Passionate about discussing iOS architecture, UI/UX design, and performance optimization.
 
-📫 Reach out via email at: samiiiahmed8@gmail.com.
+📫 Reach out via email at: **samiiiahmed8@gmail.com**.
 
 🤔 Eager to take on new challenges and continue growing in the tech world.
 
