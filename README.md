@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Samiiahmedd&show_icons=true&theme=onedark" alt="Samiiahmedd's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Samiiahmedd&show_icons=true&theme" alt="Samiiahmedd's GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiiahmedd&theme=onedark" alt="Samiiahmedd's Streak Stats" />
 </p>
   <hr>
