@@ -29,9 +29,11 @@
 
 <br>
 
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
+
  ##### Technologies and Tools I use
 
-<p align="center">
+<p align="left">
 <a href="https://developer.apple.com/xcode/"target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://bitrise.io/"target="_blank"> <img  src="https://github.com/AhmedMenaim/AhmedMenaim/assets/26345314/9d5d8e71-e484-4a72-a298-ccb5d38f6355" alt="html5" width="40" height="40"/> </a>
  <a href="https://fastlane.tools/"target="_blank"> <img  src="https://github.com/AhmedMenaim/AhmedMenaim/assets/26345314/724d451f-717d-4936-8edf-3f7616ca0e11" alt="html5" width="40" height="40"/> </a>
@@ -49,7 +51,7 @@
 
  
   ##### 👨🏻‍💻 Programming Languages
-  <p align="center">
+  <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -57,6 +59,13 @@
  <img src="https://github.com/AhmedMenaim/AhmedMenaim/assets/26345314/24b70e5e-c6f0-4126-bbc2-8d988222492e" alt="Ruby" width="40" height="40"/>
   </p>
   <br>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedmenaim&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedmenaim&theme=omni)
+
+  <hr>
+  
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
 ## 📊 GitHub Stats
 <p align="center">
