@@ -62,4 +62,4 @@
 
 <br>
 
-<p align="center" style="color: #008080;">✨ **Thank you for visiting my profile!** ✨</p>
+<p align="center" style="color: #008080;">✨ Thank you for visiting my profile! ✨</p>
