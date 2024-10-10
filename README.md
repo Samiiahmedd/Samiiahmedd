@@ -2,7 +2,7 @@
 <h3 align="center" style="font-family: 'Georgia', serif; color: #20B2AA;">iOS Developer</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Samiiahmedd&label=Profile%20views&color=008080&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Samiiahmedd&label=Profile%20views&color=008980&style=flat" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/Samiiahmedd?label=Followers&color=20B2AA" alt="Followers" />
 </p>
 
