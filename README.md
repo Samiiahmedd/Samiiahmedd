@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Georgia', serif; color: #008080;">Hi 👋, I'm Sami Mehidy!</h1>
+<h1 align="center" style="font-family: 'Georgia', serif; color: #008080;">Hi 👋, I'm Sami Ahmed!</h1>
 <h3 align="center" style="font-family: 'Georgia', serif; color: #20B2AA;">iOS Developer</h3>
 
 <p align="center">
