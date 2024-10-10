@@ -17,11 +17,10 @@
 
 💬 - Passionate about discussing iOS architecture, UI/UX design, and performance optimization.
 
-📫 -  Reach out via email at: **samiiiahmed8@gmail.com**.
+📫 -  Reach out via email at:  [E-mail](samiiiahmed8@gmail.com).
 
 🤔 -  Eager to take on new challenges and continue growing in the tech world.
 </p>
-----
 
 <h2>Connect with me </h2>
 <p>
@@ -33,8 +32,7 @@
 
 
 
-
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
+<h2> My Skills</f2> 
 
  ##### Technologies and Tools I use
 
