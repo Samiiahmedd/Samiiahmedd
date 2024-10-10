@@ -55,17 +55,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samiiahmedd&theme=omni)](https://git.io/streak-stats)
 
   <hr>
-  # 🏆 GitHub Trophies
+  🏆 GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Samiiahmedd&theme=omni&row=1&column=3" alt="Samiiahmedd's Trophies" />
 </p>
 
 <br>
 
-
-  
-
-
-
-
-<p align="center" style="color: #008080;">✨ Thank you for visiting my profile! ✨</p>
+<p align="center" style="color: #008080;">✨ **Thank you for visiting my profile!** ✨</p>
