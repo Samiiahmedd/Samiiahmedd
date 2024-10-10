@@ -44,8 +44,7 @@
 <br/>
 
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiiahmedd&theme=omni)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiiahmedd&theme=omni)
+
 
   <hr>
   <br>
@@ -53,6 +52,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiiahmedd&theme=omni)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samiiahmedd&theme=omni)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiiahmedd&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiiahmedd&theme=omni)
 
   <hr>
   🏆 GitHub Trophies
