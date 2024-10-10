@@ -41,7 +41,6 @@
 
 </p>
 
-<br/>
 
   
 
@@ -50,10 +49,12 @@
   <br>
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiiahmedd&theme=omni)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samiiahmedd&theme=omni)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiiahmedd&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiiahmedd&theme=omni)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samiiahmedd&theme=omni)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samiiahmedd&theme=omni)](https://git.io/streak-stats)
+
 
   <hr>
   🏆 GitHub Trophies
