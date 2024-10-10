@@ -7,7 +7,7 @@
 </p>
 
 <p>
-🎓 - Software Engineering Graduate from Mansoura University.
+🎓 - Software Engineering Student Graduate from Faculty Of Computer Science & Information Technology, Mansoura University.
 
 🌱 - Specializing in **iOS Development**.
 
