@@ -32,32 +32,12 @@
 
 
 
-<h2> My Skills</f2> 
 
- ##### Technologies and Tools I use
 
-<p align="left">
-<a href="https://developer.apple.com/xcode/"target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://bitrise.io/"target="_blank"> <img  src="https://github.com/AhmedMenaim/AhmedMenaim/assets/26345314/9d5d8e71-e484-4a72-a298-ccb5d38f6355" alt="html5" width="40" height="40"/> </a>
- <a href="https://fastlane.tools/"target="_blank"> <img  src="https://github.com/AhmedMenaim/AhmedMenaim/assets/26345314/724d451f-717d-4936-8edf-3f7616ca0e11" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- 
-  </p>
 
 <br/>
 
- 
-  ##### 👨🏻‍💻 Programming Languages
-  <p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
- <img src="https://github.com/AhmedMenaim/AhmedMenaim/assets/26345314/24b70e5e-c6f0-4126-bbc2-8d988222492e" alt="Ruby" width="40" height="40"/>
-  </p>
-  <br>
+
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samiiahmedd&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samiiahmedd&theme=omni)
