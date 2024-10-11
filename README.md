@@ -13,7 +13,7 @@
 
 🛠️ -  Skilled in **UIKit**, **SwiftUI**, **API integration**, and building dynamic applications for seamless user experiences.
 
-💼 - Open to **exciting opportunities**! Check out my [Resume](https://drive.google.com/file/d/1qcawPNJA6vwKL9SrCAPspbrmSAUkYojp/view?usp=sharing).
+💼 - Open to **exciting opportunities**! Check out my [Resume](https://drive.google.com/file/d/1X8ocqR8wAps-Z-r3DktbYY0aYpHgGgUx/view?usp=sharing).
 
 💬 - Passionate about discussing iOS architecture, UI/UX design, and performance optimization.
 
